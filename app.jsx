@@ -22,12 +22,12 @@ function Application(props) {
         </div>
         <div className="player">
           <div className="player-name">
-            Mario
+            Maz
           </div>
           <div className="player-score">
             <div className="counter">
               <button className="counter-action decrement"> - </button>
-              <div className="counter-score">7</div>
+              <div className="counter-score">42</div>
               <button className="counter-action increment"> + </button>
             </div>
           </div>
